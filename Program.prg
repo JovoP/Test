@@ -2,5 +2,6 @@
 
 PROCEDURE Test()
 	? "Здраво Газда!"
+	? "Zdravo Gogush!"
 RETURN	
 	
